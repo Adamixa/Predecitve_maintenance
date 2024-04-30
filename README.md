@@ -34,4 +34,35 @@ This project requires the following Python libraries:
 - matplotlib
 - seaborn
 
+You can install them using pip:
+
+`pip install pandas numpy scikit-learn matplotlib seaborn`
+
+
+## Usage
+
+1. Clone this repository:
+
+`git clone https://github.com/Adamixa/Predecitve_maintenance.git`
+
+
+2. Navigate to the project directory:
+
+`cd machine-predictive-maintenance-classification`
+
+
+4. Run the Jupyter notebook to execute the classification pipeline.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+[Adam Adeeb Al-Abduljabbar]
+
+## Acknowledgements
+
+- Dataset provided by Shivam Bansal on Kaggle.
+- Done for T5 Bootcamp in Tuwaiq Academy 
 
